@@ -1,10 +1,11 @@
-#universal{
+#universal {
     text-decoration-color: white;
 }
 
 body {
     margin: 0;
 }
+
 #header {
     height: 110vh;
     background-image: url(img/header.jpg);
@@ -23,6 +24,7 @@ body {
     padding-right: 20%;
     background-color: purple;
 }
+
 #main p {
     font-size: 20px;
 }
