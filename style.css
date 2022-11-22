@@ -43,6 +43,6 @@ img {
 }
 
 #main a {
-    text-decoration-color: red;
+    color: red;
     text-decoration: none;
 }
