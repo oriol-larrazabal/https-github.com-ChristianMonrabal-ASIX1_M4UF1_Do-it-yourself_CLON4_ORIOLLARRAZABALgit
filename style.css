@@ -1,5 +1,5 @@
-#universal {
-    text-decoration-color: white;
+#universal{
+    color: white;
 }
 
 body {
@@ -28,6 +28,7 @@ body {
 #main p {
     font-size: 20px;
 }
+
 #main h2 {
     font-size: 200%;
 }
@@ -41,7 +42,7 @@ img {
     width: 100%;
 }
 
-#a {
+#main a {
     text-decoration-color: red;
     text-decoration: none;
 }
